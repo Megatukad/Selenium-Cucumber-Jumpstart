@@ -1,5 +1,4 @@
-## Selenium-Cucumber Ruby
-
+## Wonderworx
 
 This website tested using Selenium Webdriver - Ruby, Cucumber and Allure.
 
@@ -51,17 +50,23 @@ This website tested using Selenium Webdriver - Ruby, Cucumber and Allure.
     ```
 
 ### Usage
-    * Open Terminal
-    * Enter project directory
-    * To run the test, type
+
+* Open Terminal
+
+* Enter project directory
+
+* To run the test, type
+
     ```
     $ Cucumber
     ```
-    * To generate the report, type
+* To generate the report, type
+
     ```
     $ allure generate report
     ```
-    * To open report, type
+* To open report, type
+
     ```
     $ allure report open
     ```
@@ -76,5 +81,5 @@ This website tested using Selenium Webdriver - Ruby, Cucumber and Allure.
 ##### [Allure](https://github.com/allure-framework/allure1)
 
 
-### Thanks to my Master
+### Thanks to Master
 ##### [Ibnu Fajar](https://github.com/IbnuFajar/wisanggeni-automation-framework#what-you-need)

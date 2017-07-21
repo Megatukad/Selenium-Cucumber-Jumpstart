@@ -1,4 +1,4 @@
-## Wonderworx
+## Selenium Jumpstart
 
 This website tested using Selenium Webdriver - Ruby, Cucumber and Allure.
 
@@ -72,13 +72,13 @@ This website tested using Selenium Webdriver - Ruby, Cucumber and Allure.
     ```
 
 ### Resources
-##### [SeleniumHQ Documentation](http://www.seleniumhq.org/docs/)
+* [SeleniumHQ Documentation](http://www.seleniumhq.org/docs/)
 
-##### [Cucumber Documentation](https://cucumber.io/docs/reference)
+* [Cucumber Documentation](https://cucumber.io/docs/reference)
 
-##### [Ruby Documentation](http://ruby-doc.org/)
+* [Ruby Documentation](http://ruby-doc.org/)
 
-##### [Allure](https://github.com/allure-framework/allure1)
+* [Allure](https://github.com/allure-framework/allure1)
 
 
 ### Thanks to Master

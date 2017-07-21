@@ -3,7 +3,7 @@
 
 This website tested using Selenium Webdriver - Ruby, Cucumber and Allure.
 
-### Things must have!
+### Dependencies
 > - Mozilla Firefox
 > - Text Editor
 > - Ruby
@@ -14,8 +14,8 @@ This website tested using Selenium Webdriver - Ruby, Cucumber and Allure.
 
 ### Setup
 
-    * Install Homebrew
-    ```
+    1. Install Homebrew
+    ```bash
     $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
     ```
     * Install Ruby
@@ -39,7 +39,7 @@ This website tested using Selenium Webdriver - Ruby, Cucumber and Allure.
     $ gem install allure-cucumber
     ```
 
-### Running Test
+### Usage
     * Open Terminal
     * Enter project directory
     * To run the test, type

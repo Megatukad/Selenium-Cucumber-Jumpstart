@@ -14,27 +14,38 @@ This website tested using Selenium Webdriver - Ruby, Cucumber and Allure.
 
 ### Setup
 
-    1. Install Homebrew
-    ```bash
+* Install Homebrew
+
+    ```
     $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
     ```
-    * Install Ruby
+
+* Install Ruby
+
     ```
     $ brew install ruby
     ```
-    * Install Selenium-Cucumber
+
+* Install Selenium-Cucumber
+
     ```
     $ gem install selenium-webdriver
     ```
-    * Install Cucumber
+
+* Install Cucumber
+
     ```
     $ gem install Cucumber
     ```
-    * Install Geckodriver
+
+* Install Geckodriver
+
     ```
     $ brew install Geckodriver
     ```
-    * Install Allure
+
+* Install Allure
+
     ```
     $ gem install allure-cucumber
     ```

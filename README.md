@@ -9,7 +9,6 @@ This website tested using Selenium Webdriver - Ruby, Cucumber and Allure.
 > - selenium-Webdriver
 > - Cucumber
 > - Geckodriver
-> - Allure-cucumber
 
 ### Setup
 
@@ -43,12 +42,6 @@ This website tested using Selenium Webdriver - Ruby, Cucumber and Allure.
     $ brew install Geckodriver
     ```
 
-* Install Allure
-
-    ```
-    $ gem install allure-cucumber
-    ```
-
 ### Usage
 
 * Open Terminal
@@ -60,16 +53,6 @@ This website tested using Selenium Webdriver - Ruby, Cucumber and Allure.
     ```
     $ Cucumber
     ```
-* To generate the report, type
-
-    ```
-    $ allure generate report
-    ```
-* To open report, type
-
-    ```
-    $ allure report open
-    ```
 
 ### Resources
 * [SeleniumHQ Documentation](http://www.seleniumhq.org/docs/)
@@ -78,8 +61,8 @@ This website tested using Selenium Webdriver - Ruby, Cucumber and Allure.
 
 * [Ruby Documentation](http://ruby-doc.org/)
 
-* [Allure](https://github.com/allure-framework/allure1)
 
-
-### Thanks to Master
+### Thanks to my Mentor and Master
 ##### [Ibnu Fajar](https://github.com/IbnuFajar/wisanggeni-automation-framework#what-you-need)
+
+##### [Khalif](https://github.com/raixa/Goldar-Web-Automation)
